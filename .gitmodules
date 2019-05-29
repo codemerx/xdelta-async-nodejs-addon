@@ -1,4 +1,4 @@
 [submodule "xdelta-napi/xdelta/xdelta-3.1.0"]
 	path = xdelta-3.1.0
-	url = git@github.com:ably-forks/xdelta.git
+	url = https://github.com/ably-forks/xdelta.git
 	branch = xdelta-node
